@@ -32,6 +32,11 @@
 <p><b>School Name:</b> Taraba State University Jalingo</p>
 <p><b>Matric Number:</b> TSU/FED/CS/24/1088
 <hr>
+<div style="margin-top: 20px; border-top: 1px solid #eee; padding-top: 15px;">
+    <p style="font-weight: bold; color: #555;">Connect with me:</p>
+    <a href="https://www.facebook.com/GodswillDavid" target="_blank" style="text-decoration: none; color: #1877F2; margin-right: 15px; font-weight: bold;">Facebook</a>
+    <a href="https://www.tiktok.com/@2wokaay" target="_blank" style="text-decoration: none; color: #010101; font-weight: bold;">TikTok</a>
+</div>
 
 <p>
 This website was created by me as part of my school assignment.
